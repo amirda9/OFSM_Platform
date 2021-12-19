@@ -1,0 +1,7 @@
+{
+  "name": "ofsm",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
